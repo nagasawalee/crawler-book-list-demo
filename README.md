@@ -13,7 +13,7 @@ You can customize the setting according to the webpage
 This demo gets a book list as an example by crawling [Books to Scrape](https://books.toscrape.com/).
 
 Result:
-
+![](https://github.com/nagasawalee/crawler-book-list-demo/blob/main/crawler%20result.png)
 
 ## Getting Started
 
